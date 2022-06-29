@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noman4455
+- 👋 Hi, I’m M. Noman Tariq
 - 👀 I’m interested in Web Designing & Development
 - 🌱 I’m currently learning Web Designing
 - 💞️ I’m looking to collaborate on Development
